@@ -1,4 +1,7 @@
-## Hi there 👋
+## Heyoo!! 👋
+2nd year Comp Sci Undergrad  
+currently working on Oryn lang, a bytecode virtual machine run programming language  
+I am also learning Data structures and Algorithms  
 
 <!--
 **GandharvaK312/GandharvaK312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
