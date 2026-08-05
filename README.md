@@ -1,19 +1,25 @@
-## Heyoo!! 👋
-2nd year Comp Sci Undergrad  
-currently working on Oryn lang, a bytecode virtual machine run programming language  
-I am also learning Data structures and Algorithms  
+# Gandharva Kulkarni
 
-<!--
-**GandharvaK312/GandharvaK312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C programmer. Building things close to the metal.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building **Oryn Lang** — a bytecode virtual machine in C from scratch.
+  Opcode dispatch, stack-based execution, memory management, the whole stack.
+- Working through **DSA in C** — implementing data structures directly,
+  not just using them.
+- Studying K.N. King's *C Programming: A Modern Approach* to get the
+  fundamentals right before going further.
+
+## What I'm building toward
+
+Low-level systems engineering. Computer architecture. Embedded systems.
+Eventually an OS, a flight controller, and things that fly.
+
+## Stack
+
+C · Python · Git · Linux · GDB · Valgrind
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/gandharva-kulkarni-8b0b5a36a)
