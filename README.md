@@ -18,7 +18,7 @@ Eventually an OS, a flight controller, and things that fly.
 
 ## Stack
 
-C · Python · Git · Linux · GDB · Valgrind
+C · Python · Git · Linux 
 
 ## Connect
 
